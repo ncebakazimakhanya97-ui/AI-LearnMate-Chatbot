@@ -130,4 +130,4 @@ AI LearnMate demonstrates hands-on experience in building an end-to-end AI-power
 - Streamlit
 
 ## Demo
-[Add live demo link here]
+https://huggingface.co/spaces/mbalimadlala/AI-LearnMate-Generator 
